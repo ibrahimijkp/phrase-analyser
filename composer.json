@@ -1,0 +1,19 @@
+{
+    "name": "tevtex/phrase-analyser",
+    "description": "Test from TEVTEX for creating phrase analyser package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ibrahim Khan",
+            "email": "ibrahimijkp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "TEVTEX\\PhraseAnalyser\\": "src/"
+        }
+    }
+}
